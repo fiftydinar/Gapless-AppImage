@@ -1,7 +1,7 @@
 # Gapless-AppImage 🐧
 
 [![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/Gapless-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/Gapless-AppImage/releases/latest)
-[![CI Build Status](https://github.com//pkgforge-dev/Gapless-AppImage/actions/workflows/blank.yml/badge.svg)](https://github.com/pkgforge-dev/Gapless-AppImage/releases/latest)
+[![CI Build Status](https://github.com//pkgforge-dev/Gapless-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/Gapless-AppImage/releases/latest)
 
 <p align="center">
   <img src="https://gitlab.gnome.org/neithern/g4music/-/raw/master/data/icons/hicolor/scalable/apps/app.svg?ref_type=heads" width="128" />
